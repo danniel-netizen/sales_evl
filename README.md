@@ -147,5 +147,5 @@ Submit:
 7. README explaining how to run the project
 
 
-###Note:
-Do not check to main branch , create pull request once done and ready for evaluation.
+### Note:
+Do not checkin/push to main branch , create pull request once done and ready for evaluation.
