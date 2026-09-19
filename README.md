@@ -145,3 +145,7 @@ Submit:
 5. Charts/visualizations
 6. Short explanation of the findings
 7. README explaining how to run the project
+
+
+###Note:
+Do not check to main branch , create pull request once done and ready for evaluation.
